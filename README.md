@@ -35,6 +35,7 @@
 📌 **[Projeto E-commerce](https://github.com/Brunosalles10/Projeto-Ecommerce)** – Aplicação completa de e-commerce com **React, Java e MySQL**.  
 📌 **[Demo DAO JDBC](https://github.com/Brunosalles10/demo-dao-jdbc)** – Implementação do padrão **DAO com JDBC** para MySQL.  
 📌 **[Projeto de Tarefas](https://github.com/Brunosalles10/Projeto-de-tarefas)** – To-Do List em **React com TypeScript**.  
+📌 **[Projeto de Site para vendas de veículos](https://github.com/FelipeTr00/TechAcademy5)** – Aplicação completa de site para venda de veículos com **React, TypeScript e MySQL**.
 
 💡 **Veja mais projetos no meu repositório 👉 [Meus Projetos](https://github.com/Brunosalles10?tab=repositories)**  
 
@@ -52,7 +53,7 @@
 ### 🌎 Onde Me Encontrar:
 
 📩 **E-mail:** bsalles428@gmail.com
-💼 **LinkedIn:** [Bruno Salles]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/bruno-salles-0575371a6/)  
+💼 **LinkedIn:** [Bruno Salles](https://www.linkedin.com/in/bruno-salles-0575371a6/)  
 🚀 **GitHub:** [Bruno Salles](https://github.com/Brunosalles10)  
 
 ---
