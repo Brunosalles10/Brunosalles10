@@ -34,7 +34,7 @@
 
 📌 **[Projeto E-commerce](https://github.com/Brunosalles10/Projeto-Ecommerce)** – Aplicação completa de e-commerce com **React, Java e MySQL**.  
 📌 **[Demo DAO JDBC](https://github.com/Brunosalles10/demo-dao-jdbc)** – Implementação do padrão **DAO com JDBC**.  
-📌 **[Projeto para gerênciar projetos](https://github.com/Brunosalles10/GerenciadorProjetos)** - Gerenciador de projetos**.  
+📌 **[Gerenciador de projetos](https://github.com/Brunosalles10/GerenciadorProjetos)** - Gerenciador de projetos**.  
 📌 **[Projeto de Site para vendas de veículos](https://github.com/FelipeTr00/TechAcademy5)** – Aplicação completa de site para venda de veículos com **React, TypeScript e MySQL**.
 
 💡 **Veja mais projetos no meu repositório 👉 [Meus Projetos](https://github.com/Brunosalles10?tab=repositories)**  
