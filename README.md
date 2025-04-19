@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Bruno Salles</h1>
+<h1 align="center">👋 Olá! Eu sou  Bruno Salles</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong> | 🚀 Java | React | SQL
