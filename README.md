@@ -39,7 +39,7 @@ Backend: Java, Spring Boot, APIs RESTful, MySQL
 
 📌 **[Projeto Banco digital](https://github.com/Brunosalles10/digitalBank)** – Aplicação completa de um Banco digital com **React.Js, TypeScript e MySQL**.<br>
 📌 **[Projeto E-commerce](https://github.com/Brunosalles10/Projeto-Ecommerce)** – Aplicação completa de e-commerce com **React, Java e MySQL**.   
-📌 **[Projeto de Microsserviços](https://github.com/Brunosalles10/Projeto_Organizae)** - Gerenciador de atividades académicas simulando um microserviços **usando Nest.js**.  
+📌 **[Projeto de Microsserviços](https://github.com/Brunosalles10/Projeto_Organizae)** - Gerenciador de atividades simulando um microserviços **usando Nest.js**.  
 📌 **[Projeto de Site para vendas de veículos](https://github.com/FelipeTr00/TechAcademy5)** – Aplicação completa de site para venda de veículos com **React, TypeScript e MySQL**.
 
 💡 **Veja mais projetos no meu repositório 👉 [Meus Projetos](https://github.com/Brunosalles10?tab=repositories)**  
